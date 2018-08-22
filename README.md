@@ -1,0 +1,3 @@
+# sparkstreaming-kafka
+sparkstreaming-kafka
+通过sparkstreaming消化kafka推送的信息，并保存到hbase中
